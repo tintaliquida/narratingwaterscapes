@@ -78,6 +78,24 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://youtu.be/r0zTABD-NO8?si=iJj9bCu7bCrpNnn3",
+      "caption": "This video shows the expansion of the Panama Canal Watershed boundaries, announced in 2024.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Introduction",
@@ -88,6 +106,6 @@
   "slug": "introduction-2",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-24T00:54:09.152Z",
+  "updated_at": "2026-05-24T01:02:37.176Z",
   "updated_by": "tintaliquida"
 }
