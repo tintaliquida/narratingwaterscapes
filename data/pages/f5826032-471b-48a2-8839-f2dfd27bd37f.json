@@ -20,6 +20,22 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "[Video of Ricaurte Vásquez]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This AVAnnotate project examines the competing epistemologies through which the Canal is governed and contested, focusing on the legacies of its expansion processes and the ACP proposed dam and reservoir project known as \"Water for the Future\". "
         }
       ]
@@ -106,6 +122,6 @@
   "slug": "introduction-2",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-24T01:02:37.176Z",
+  "updated_at": "2026-05-24T01:36:53.343Z",
   "updated_by": "tintaliquida"
 }
