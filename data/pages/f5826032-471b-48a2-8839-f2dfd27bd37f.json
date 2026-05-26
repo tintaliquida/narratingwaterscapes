@@ -106,12 +106,10 @@
     {
       "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
       "includes": [
-        "media",
-        "label",
-        "annotations"
+        "media"
       ],
-      "start": 2834,
-      "end": 4877,
+      "start": 47,
+      "end": 82,
       "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
       "type": "event",
       "children": [
@@ -137,6 +135,6 @@
   "slug": "introduction-how-testiomony-contests-infrast",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-26T04:45:12.749Z",
+  "updated_at": "2026-05-26T04:47:02.755Z",
   "updated_by": "tintaliquida"
 }
