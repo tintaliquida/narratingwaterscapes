@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "af05c8a8-eb32-4a9b-ac75-9a9662da33cc": {
+      "label": "43rd Annual Patterson Lecture: Ricaurte Vásquez Morales, Panama Canal Administrator",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/MmXL0LMcjCQ?si=bc9Kzoi3bmBOtar-",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Vasquez delivered the 43rd Annual William A. Patterson Transportation Lecture, held May 7, 2025, at the Walter Athletics Center Auditorium. Hosted by the Northwestern University Transportation Center (NUTC), the lecture is named for William A. “Pat” Patterson, a central figure in the US air transport industry for more than four decades who served as president and chairman of United Airlines from 1934 until his retirement in 1966. He was a life trustee of Northwestern University and was instrumental in the establishment and strategic leadership of the NUTC. \n\n"
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "43rd Annual Patterson Lecture: Ricaurte Vásquez Morales, Panama Canal Administrator",
+  "av_file_order": [
+    "af05c8a8-eb32-4a9b-ac75-9a9662da33cc"
+  ],
+  "created_at": "2026-05-26T04:17:33.706Z",
+  "created_by": "tintaliquida",
+  "updated_at": "2026-05-26T04:17:33.706Z",
+  "updated_by": "tintaliquida"
+}
