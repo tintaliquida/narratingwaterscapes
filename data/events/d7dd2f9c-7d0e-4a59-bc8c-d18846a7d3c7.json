@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "0e03cadc-c3a7-4e68-a1eb-32434e4f124b": {
+      "label": "Map of the Río Indio Project",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/aNYBVa8t1b0?si=CDTgZtChDG-dy-EN",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Map of the Río Indio Project",
+  "av_file_order": [
+    "0e03cadc-c3a7-4e68-a1eb-32434e4f124b"
+  ],
+  "created_at": "2026-05-26T07:46:06.468Z",
+  "created_by": "tintaliquida",
+  "updated_at": "2026-05-26T07:46:06.468Z",
+  "updated_by": "tintaliquida"
+}
