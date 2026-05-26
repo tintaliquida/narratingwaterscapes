@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The Panama Canal depends on a source it cannot control: freshwater. These were the words used by Ricaurte Vásquez, head of the Panama Canal Authority (ACP), to describe the systemic vulnerability of the waterway. The Canal operates within a hydrological regime shaped by climate-induced droughts, increasing global shipping demand, and growing municipal water consumption. In navigating these pressures, its infrastructural limits are now extending into rural watersheds, particularly those of the Caribbean basin, including Río Indio, one of the most ecologically and socially significant rivers under current evaluation for the development of a new water reservoir. "
+          "text": "The Panama Canal depends on a source it cannot control: freshwater. These were the words used by Ricaurte Vásquez, head of the Panama Canal Authority (ACP), to describe the systemic vulnerability of the waterway. The Canal operations are challenged by climate-induced drought, rising global shipping demand, and increasing municipal water consumption. These pressures extend into surrounding watersheds, particularly in the Caribbean basin, including the Río Indio region, where a reservoir project has been repeatedly proposed and reactivated over time."
         }
       ]
     },
@@ -20,62 +20,54 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Video of Ricaurte Vásquez]"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This AVAnnotate project examines the competing epistemologies through which the Canal is governed and contested, focusing on the legacies of its expansion processes and the ACP proposed dam and reservoir project known as \"Water for the Future\". "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "This project approaches the Panama Canal as an archive in motion, where infrastructure, memory, and displacement continuously produce one another."
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "By assembling media, policy discourse, and narrative interventions, "
+          "text": "This AVAnnotate project analyzes the documentary "
         },
         {
-          "text": "Narrating Waterscapes",
+          "text": "Familia",
+          "italic": true,
+          "bold": true
+        },
+        {
+          "text": " (2007), directed by Enrique Castro Ríos, as a site where development is contested. The film stages a debate within an elite Panamanian family over the expansion of the Canal, structured around a journey through river, coast, and the canal. Within this narrative, campesino figures —including Digna, a Río Indio community leader— appear as part of the film's internal conflict, grounding abstract discussions of development in lived territorial consequence."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The project reads this documentary alongside audiovisual material of Ricaurte Vásquez presenting the Canal's water strategy in a conference setting, as well as recorded interviews with Digna conducted over two decades after her initial opposition to the reservoir project in 1999. The same infrastructure proposal reappears across time, while the same voice of resistance persists."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testimony becomes a form of territorial knowledge that contests infrastructural abstraction. Through audiovisual annotation, this project examines how "
+        },
+        {
+          "text": "Familia",
           "italic": true
         },
         {
-          "text": " traces the mechanisms through which water becomes a medium of governance, and how testimony becomes a site where competing empistemologies of territory ar articulated."
+          "text": " stages development through elite debate, how technocratic discourse justifies infrastructural intervention, and how campesino testimony anchors these abstractions in lived territory."
         }
       ]
     },
@@ -91,37 +83,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://youtu.be/r0zTABD-NO8?si=iJj9bCu7bCrpNnn3",
-      "caption": "This video shows the expansion of the Panama Canal Watershed boundaries, announced in 2024.",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "Ultimately, the project argues that water governance in the Panama Canal watershed is not a linear technical process but a recursive struggle over how development is narrated, authorized and lived across time."
         }
       ]
     }
   ],
-  "title": "Introduction",
+  "title": "Introduction: How Testiomony Contests Infrastructure",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "introduction-2",
+  "slug": "introduction-how-testiomony-contests-infrast",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-24T01:36:53.343Z",
+  "updated_at": "2026-05-26T03:56:14.677Z",
   "updated_by": "tintaliquida"
 }
