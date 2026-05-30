@@ -71,6 +71,61 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "image",
+              "url": "https://www.prensa.com/resizer/bNLFbsuQzHmBYNrzhCDixoiEMzE=/arc-anglerfish-arc2-prod-corprensa/public/EZTUFE7V7NBNJCOOCRKJ4CCKZ4.jpeg",
+              "caption": "The new limits of the Panama Canal watershed. Source: La Prensa, Panama.",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Watershed Expansion of the Panama Canal",
@@ -81,6 +136,6 @@
   "slug": "watershed-expansion-of-the-panama-canal",
   "created_at": "2026-05-24T01:19:31.803Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-24T01:19:31.803Z",
+  "updated_at": "2026-05-30T00:36:50.036Z",
   "updated_by": "tintaliquida"
 }
