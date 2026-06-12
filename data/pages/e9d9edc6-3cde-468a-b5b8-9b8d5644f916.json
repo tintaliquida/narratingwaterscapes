@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The expansion of the Canal’s watershed is not only a technical adjustment of hydrological management. It reorganizes land as a future-oriented field of anticipation, where rural territories are reclassified according to their potential contribution to the Canal’s water supply."
+          "text": "The expansion of the Canal’s watershed is not only a technical adjustment of water management. It reorganizes the land and the communities that inhabit it. In this process, rural territories are reclassified according to their potential contribution to the Canal's water supply."
         }
       ]
     },
@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Within these redefined basins, infrastructure ceases to appear only as physical construction and operates instead as a mode of territorial reading: rivers, hills, and settlements become legible as storage capacity, catchment zones, or sites of future intervention."
+          "text": "Within these redefined basins, infrastructure ceases to appear only as physical construction and operates instead as a mode of territorial reading: rivers, hills, and settlements become legible as storage capacity, catchment zones, or sites of future intervention. "
         }
       ]
     },
@@ -36,7 +36,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "For communities living inside these watersheds, however, this reclassification is experienced as a suspension of certainty. Land is not simply occupied or regulated; it is held in a condition of provisional existence, shaped by announcements, studies, consultations, and projected futures that have material effects long before any dam or reservoir is built."
+          "text": "For communities living inside these watersheds, however, this reclassification is experienced as a suspension of certainty. Land is held in a condition of provisional existence, shaped by official announcements, technical studies, and projected water futures with material effects long before a single dam or reservoir is built. Drawing on historical and ethnographic research, Ashley Carse (2014) demonstrates how the Canal’s surrounding landscapes and communities have been continually reorganized into \"natural infrastructure\" to sustain global trade corridors, reshaping local ecologies and livelihoods."
         }
       ]
     },
@@ -52,7 +52,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "It is within this condition that figures such as Digna appear in the documentary and interviews that inform this project. Her testimony does not describe infrastructure from the outside. It emerges from within this ongoing reorganization of territory, where the future of water governance is already restructuring everyday life."
+          "text": ""
         }
       ]
     },
@@ -60,7 +60,140 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\n\n\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 443,
+      "end": 1343,
+      "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This cycle of anticipation is clearly rendered in the Río Indio project. It was originally anounced over two decades ago but it was legally revoked following sustained campesino mobilizations. Yet in the wake of climate-change induced droughts, that have crippled Canal transits, the state has resurrected and formally advanced the damming of Río Indio as of 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "It is within this condition that figures such as Digna appear in the documentary "
+        },
+        {
+          "text": "Familia",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " (2007) and reappear in public manifestations in 2026. Her testimony sheds light on a vital perspective from the margins, refusing to describe infrastructure as an abstract idea serving world commerce. Instead, her narrative allows the audience to comprehend the ongoing reorganization of territory from within. The future of water governance has been restructuring everyday life for decades: first, as a looming threat on the eve of the Panama Canal expansion, and now as an urgent, revived reality in 2026."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recommended readings:",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Carse, Ashley. "
+            },
+            {
+              "text": "Beyond the Big Ditch: Politics, Ecology, and Infrastructure at the Panama Canal",
+              "italic": true
+            },
+            {
+              "text": ". Cambridge, MA: MIT Press, 2014."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Carse, Ashley, and David Kneas. 2019. “Unbuilt and Unfinished: The Temporalities of Infrastructure.” "
+            },
+            {
+              "text": "Environment and Society",
+              "italic": true
+            },
+            {
+              "text": ". New York: Berghahn Journals. doi:10.3167/ares.2019.100102."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Chirú, Félix J. 2007. “La Coordinadora Campesina contra los Embalses, Panamá: 1999–2006. Aproximación a un análisis cultural.” "
+            },
+            {
+              "text": "Diálogos Revista Electrónica de Historia",
+              "italic": true
+            },
+            {
+              "text": " 8 (1).\n\n"
+            }
+          ]
         }
       ]
     }
@@ -73,6 +206,6 @@
   "slug": "lived-waters",
   "created_at": "2026-05-24T01:21:36.311Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-24T01:21:36.311Z",
+  "updated_at": "2026-06-12T20:31:43.785Z",
   "updated_by": "tintaliquida"
 }
