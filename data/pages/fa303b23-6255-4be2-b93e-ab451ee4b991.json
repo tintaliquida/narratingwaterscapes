@@ -52,7 +52,39 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "However, this is not the first time the Canal watershed has been redefined. When the administration of the waterway was transfered from US to Panamanian control in 1999, Law 44 was passed, formalizing a restructured watershed, extending its limits to incorporate rural territories (and future dam projects) into the Canal’s hydrological system. Campesino protest movement emerged in response and in 2006, president Martin Torrijos revoked Law 44."
+          "text": "However, this is not the first time the Canal watershed has been redefined. When the administration of the waterway was transfered from US to Panamanian control in 1999, Law 44 was passed, formalizing a restructured watershed, extending its limits to incorporate rural territories into the Canal’s hydrological system. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Clip Familia]"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "National debates about the Panama Canal expansion shed light on how this expansion will require the construction of new infrastructure: new dams and reservoirs in rural areas. Campesino protest movement emerged in response and in 2006, president Martin Torrijos revoked Law 44."
         }
       ]
     },
@@ -128,6 +160,15 @@
     },
     {
       "type": "paragraph",
+      "align": "left",
+      "children": [
+        {
+          "text": "2016 — Panama Canal expansion completed (without new dams or reservoirs)"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "2020s — Intensifying debates over water scarcity and Canal sustainability"
@@ -152,14 +193,6 @@
         }
       ],
       "align": "left"
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     },
     {
       "type": "paragraph",
@@ -233,6 +266,6 @@
   "slug": "watershed-expansion-of-the-panama-canal",
   "created_at": "2026-05-24T01:19:31.803Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-12T17:37:10.696Z",
+  "updated_at": "2026-06-12T18:00:15.993Z",
   "updated_by": "tintaliquida"
 }
