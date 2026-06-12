@@ -68,6 +68,103 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Timeline:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1997 — Severe drought lowers Canal reservoir levels"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1999 — Law 44 expands the Canal watershed (Río Indio included within the new limits)"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "1999-2006 — Campesino protests "
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2006 — Law 44 revoked"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2007 — Documentary Familia released"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2020s — Intensifying debates over water scarcity and Canal sustainability"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2024 — Adjustment to the Panama Canal watershed boundaries (Río Indio is included)"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2026 — Río Indio reservoir project reactivated as national water strategy\n"
+        }
+      ],
+      "align": "left"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -136,6 +233,6 @@
   "slug": "watershed-expansion-of-the-panama-canal",
   "created_at": "2026-05-24T01:19:31.803Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-12T17:30:47.975Z",
+  "updated_at": "2026-06-12T17:37:10.696Z",
   "updated_by": "tintaliquida"
 }
