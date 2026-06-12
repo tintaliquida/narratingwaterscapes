@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In 2024, the Panama Canal Authority (ACP) announced an adjustment to the Canal watershed boundaries, expanding the spatial framework through which water is managed, monitored and allocated. This redefinition actively reorganized territory by incorporating new rural basins into Canal's operational domain."
+          "text": "In 2024, the Panama Canal Authority (ACP) announced an adjustment to the Canal watershed boundaries, expanding the spatial framework through which water is managed, monitored and allocated. This redefinition actively reorganized territory by incorporating new rural basins (and its populations) into Canal's operational domain."
         }
       ]
     },
@@ -52,7 +52,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This is not the first time the Canal watershed has been redefined. When the administration of the waterway was transfered from US to Panamanian control in 1999, a campesino protest movement emerged in response to a proposal that would have displaced a large number of rural communities from their lands in order to create new lakes for the Panama Canal. Law 44 effectively expanded the Canal watershed by adding approximately 213,000 hectares to the existing 312,00 hectares Eastern Watershed."
+          "text": "However, this is not the first time the Canal watershed has been redefined. When the administration of the waterway was transfered from US to Panamanian control in 1999, Law 44 was passed, formalizing a restructured watershed, extending its limits to incorporate rural territories (and future dam projects) into the Canal’s hydrological system. Campesino protest movement emerged in response and in 2006, president Martin Torrijos revoked Law 44."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -128,6 +136,6 @@
   "slug": "watershed-expansion-of-the-panama-canal",
   "created_at": "2026-05-24T01:19:31.803Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-12T17:13:43.178Z",
+  "updated_at": "2026-06-12T17:30:47.975Z",
   "updated_by": "tintaliquida"
 }
