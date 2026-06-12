@@ -28,7 +28,7 @@
           "bold": true
         },
         {
-          "text": " (2007), directed by Enrique Castro Ríos, as a site where development is contested. The film stages a debate within an elite Panamanian family over the expansion of the Canal, structured around a journey through river, coast, and the canal. Within this narrative, campesino figures —including Digna, a Río Indio community leader— appear as part of the film's internal conflict, grounding abstract discussions of development in lived territorial consequence."
+          "text": " (2007), directed by Enrique Castro Ríos, as a site where development is contested. The film stages a debate within an elite Panamanian family over the expansion of the Canal, structured around a journey through river, coast, and the canal. Within this narrative, campesino figures —including Digna, a Río Indio community leader— appear as part of the film's internal conflict, grounding abstract discussions of development with lived territorial experiences."
         }
       ]
     },
@@ -44,7 +44,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The project reads this documentary alongside audiovisual material of Ricaurte Vásquez presenting the Canal's water strategy in a conference setting, as well as recorded interviews with Digna conducted over two decades after her initial opposition to the reservoir project in 1999. The same infrastructure proposal reappears across time, while the same voice of resistance persists."
+          "text": "The project reads this documentary alongside audiovisual material of the Panama Canal's water strategy, Panamanian scholars analyzing this project, and recorded interviews with Digna, conducted over two decades after her initial opposition to the reservoir project in 1999. The same infrastructure proposal reappears across time, while the same voice of resistance persists."
         }
       ]
     },
@@ -60,14 +60,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Testimony becomes a form of territorial knowledge that contests infrastructural abstraction. Through audiovisual annotation, this project examines how "
+          "text": "I approach testimony as a form of territorial knowledge that contests infrastructural abstraction. Through audiovisual annotation, this project examines how "
         },
         {
           "text": "Familia",
-          "italic": true
+          "italic": true,
+          "bold": true
         },
         {
-          "text": " stages development through elite debate, how technocratic discourse justifies infrastructural intervention, and how campesino testimony anchors these abstractions in lived territory."
+          "text": " (2007) stages ongoing national debates about water development, and how campesino testimony anchors these abstractions in lived territory."
         }
       ]
     },
@@ -135,6 +136,6 @@
   "slug": "introduction-how-testiomony-contests-infrast",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-26T04:50:27.369Z",
+  "updated_at": "2026-06-12T17:08:25.048Z",
   "updated_by": "tintaliquida"
 }
