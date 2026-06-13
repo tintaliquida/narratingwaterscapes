@@ -1,5 +1,155 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": null,
+      "end_time": null,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Annotation"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Tags (separate multiple tags via"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": ")"
+        }
+      ],
+      "uuid": "b9ee5a25-bd89-4b15-945c-921d1dc7b298"
+    },
+    {
+      "start_time": 3320,
+      "end_time": 3370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panama Canal Administrator, Ricaurte VÃ¡squez, shares climatological chronologies to establish a framework of environmental inevitability. By framing the water conflict purely around climate cycles and system \"reliability,\" the managerial discourse rationalizes hydraulic engineering as the only objective, apolitical response to nature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        }
+      ],
+      "uuid": "c5be7ca7-ca56-4daa-82d2-dd8fc04da84a"
+    },
+    {
+      "start_time": 3371,
+      "end_time": 3414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "VÃ¡squez implements a scalar shift that reframes infrastructure as a domestic public utility. By anchoring the project's legitimacy in the necessity of municipal water supply, the discourse establishes a moral hierarchy that complicates local claims to territorial sovereignty."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        }
+      ],
+      "uuid": "c8b7b941-6a41-4788-af0f-fe852fb39f99"
+    },
+    {
+      "start_time": 3453,
+      "end_time": 3466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "ACP administrator explicitly acknowledges the structural friction of land flooding and social displacement. Rather than dismissing the threat, the narrative conceptualizes displacement as an administrative \"dilemma\" to be neutralized through communicative governance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "environmental legislation",
+          "category": "infrastructure and state violence"
+        }
+      ],
+      "uuid": "63078366-4916-4636-ba0b-487be0bc6b0c"
+    },
+    {
+      "start_time": 3574,
+      "end_time": 3590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "By substituting state social subsidies with corporate legal \"contracts,\" VÃ¡squez addresses how political agency becomes individualized, conditioned to environmental stewardship. This framework reinforces the state's contemporary execution of the project, which was codified when RÃ­o Indio was integrated into the Panama Canal's watershed master plan for the 2026 fiscal cycle."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "environmental legislation",
+          "category": "infrastructure and state violence"
+        }
+      ],
+      "uuid": "a2f1338b-28e7-4073-a34b-41291aeae2e3"
+    }
+  ],
   "set": "Default",
   "event_id": "40f382fc-46d1-4333-9e3d-5a4c50e016b0",
   "source_id": "af05c8a8-eb32-4a9b-ac75-9a9662da33cc"
