@@ -20,6 +20,48 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "40f382fc-46d1-4333-9e3d-5a4c50e016b0",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 3320,
+      "end": 3370,
+      "file": "af05c8a8-eb32-4a9b-ac75-9a9662da33cc",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "This epistemology assumes that territory can be rendered legible through measurement: rainfall becomes data, rivers become supply, and rural basins become operational extensions of the Canal system."
         }
       ]
@@ -97,6 +139,6 @@
   "slug": "competing-ways-of-knowing-water",
   "created_at": "2026-05-24T01:22:31.210Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-05-24T01:22:31.210Z",
+  "updated_at": "2026-06-13T07:35:32.861Z",
   "updated_by": "tintaliquida"
 }
