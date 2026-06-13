@@ -46,22 +46,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "This epistemology assumes that territory can be rendered legible through measurement: rainfall becomes data, rivers become supply, and rural basins become operational extensions of the Canal system."
         }
       ]
@@ -94,7 +78,49 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 1388,
+      "end": 1427,
+      "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "In the documentary materials and interviews assembled in this project, Digna appears within this tension. Her account does not translate easily into the language of planning or policy. It registers instead as lived anticipation: a relationship to land shaped by the possibility of displacement that precedes its formal announcement."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "[Digna testimony 2025]"
         }
       ]
     },
@@ -129,6 +155,22 @@
           "text": "The watershed, in this sense, is not only a hydrological unit. It is a site where different ways of knowing territory are placed into confrontation without resolution."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Competing Ways of Knowing Water",
@@ -139,6 +181,6 @@
   "slug": "competing-ways-of-knowing-water",
   "created_at": "2026-05-24T01:22:31.210Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-13T07:35:32.861Z",
+  "updated_at": "2026-06-13T07:42:45.593Z",
   "updated_by": "tintaliquida"
 }
