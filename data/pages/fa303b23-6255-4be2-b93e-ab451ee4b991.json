@@ -110,23 +110,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "[Clip Familia]"
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "National debates about the Panama Canal expansion shed light on how this expansion will require the construction of new infrastructure: new dams and reservoirs in rural areas. Campesino protest movement emerged in response and in 2006, president Martin Torrijos revoked Law 44."
+          "text": "National debates about the Panama Canal expansion shed light on how this expansion will require the construction of new infrastructure: new dams and reservoirs in rural areas. Campesino protest movement emerged in response and, in 2006, president Martin Torrijos revoked Law 44."
         }
       ]
     },
@@ -308,6 +292,6 @@
   "slug": "watershed-expansion-of-the-panama-canal",
   "created_at": "2026-05-24T01:19:31.803Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-12T20:00:55.121Z",
+  "updated_at": "2026-06-13T01:08:02.749Z",
   "updated_by": "tintaliquida"
 }
