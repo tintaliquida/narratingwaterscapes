@@ -139,6 +139,45 @@
       ]
     },
     {
+      "uuid": "ab269121-4eb8-400e-8640-8503742cd2ce",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "paragraph",
       "children": [
         {
@@ -206,6 +245,6 @@
   "slug": "lived-waters",
   "created_at": "2026-05-24T01:21:36.311Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-16T19:48:15.380Z",
+  "updated_at": "2026-06-16T19:48:53.098Z",
   "updated_by": "tintaliquida"
 }
