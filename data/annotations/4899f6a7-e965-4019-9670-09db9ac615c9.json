@@ -1,5 +1,97 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 935,
+      "end_time": 980,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here, Dr. Bonilla addresses the cross-ownership of media, political campaigns, and mega-corporations, proving how the state/corporate alliance maps and controls public discourse."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "state-mapping"
+        },
+        {
+          "tag": "exclusion",
+          "category": "infrastructure and state violence"
+        }
+      ],
+      "uuid": "71d63f44-838e-41fc-8c48-d10b8dd23c71"
+    },
+    {
+      "start_time": 981,
+      "end_time": 1019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He highlights the physical expansion of the logistical state. Infrastructure projects alter geography by moving beyond traditional watershed boundaries."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        }
+      ],
+      "uuid": "b9c63eb6-8675-4c4e-9c4f-7594471fff13"
+    },
+    {
+      "start_time": 1026,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This part of the interview makes us think about how a \"lived territory\" is reduced to an extraction zone, resulting in displacement and forced relocation. At the same time, it reveals how the media censors structural alternatives to the Canal's infinite growth model. This testimony serves as a critical point of view against that status quo."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "lived territory",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "exclusion",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "testimony",
+          "category": "political agency"
+        },
+        {
+          "tag": "counter mapping",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "grassroots",
+          "category": "political agency"
+        }
+      ],
+      "uuid": "6c6d79e9-0745-46d2-a7de-a534d87db278"
+    }
+  ],
   "set": "Default",
   "event_id": "2a11ac27-8e98-4de9-982d-ce9613e31c86",
   "source_id": "4156abad-9ce4-4b47-b86d-39d2c6f1da59"
