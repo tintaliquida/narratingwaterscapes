@@ -52,19 +52,89 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The result is not a unified narrative of the watershed, but a field of uneven visibility. What is documented, what is planned, and what is experienced do not align. They coexist without resolution.\n\n"
+          "text": "The result is not a unified narrative of the watershed, but a field of uneven visibility. What is documented, what is planned, and what is experienced do not align. They coexist without resolution."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Recommended readings:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Autoridad del Canal de Panamá (ACP). 2023. Integrated Water Resource Management Study: Water Project Alternative Milestone Meeting (AMM) Report. Panama Canal. https://pancanal.com/wp-content/uploads/2024/04/2023-May_Water-Project-AMM-Study-A-Final-Repo."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Molina, Daniel. 2025. “El espía arrepentido del Canal de Panamá”. Revista Anfibia."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Herrera, Guillermo Castro. 2002. “On Cattle and Ships: Culture, History and Sustainable Development in Panama.” Environment and History 7 (2): 201–17."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Lasso, Marixa. 2019. Erased: The Untold Story of the Panama Canal. N.p.: Harvard University Press."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Zien, Katherine A. 2017. Sovereign Acts: Performing Race, Space, and Belonging in Panama and the Canal Zone. N.p.: Rutgers University Press."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
         }
       ]
     }
   ],
-  "title": "Mediation and Friction",
+  "title": " Documentary Mediation and Uneven Visibility",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "mediation-and-friction",
+  "slug": "documentary-mediation-and-uneven-visibility",
   "created_at": "2026-05-24T01:26:43.965Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-16T19:49:10.209Z",
+  "updated_at": "2026-06-16T21:24:57.698Z",
   "updated_by": "tintaliquida"
 }
