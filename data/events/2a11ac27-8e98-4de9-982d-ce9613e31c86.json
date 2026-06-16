@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "4156abad-9ce4-4b47-b86d-39d2c6f1da59": {
+      "label": "Interview with Panamanian Historian Francisco Javier Bonilla",
+      "is_offline": false,
+      "file_type": "Video",
+      "file_url": "https://youtu.be/pIxLEnMykz0?si=e6WgXwtBnFGRjL0R",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Dr. Francisco Javier Bonilla is a historian of Latin America specializing in environmental history, infrastructure, and urban development. His research focuses on Panama and the wider Caribbean, examining how water, cities, and U.S. empire have shaped everyday life across the region. He received his PhD in History from Carnegie Mellon University and is currently turning his dissertation, Downstream from the Locks: The Technopolitics of Water in Panama’s Urban Borderlands, into a book. In this interview with Bill Miller, he addresses the Río Indio project and what it means for Panama."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Interview with Panamanian Historian Francisco Javier Bonilla",
+  "av_file_order": [
+    "4156abad-9ce4-4b47-b86d-39d2c6f1da59"
+  ],
+  "created_at": "2026-06-16T19:55:48.093Z",
+  "created_by": "tintaliquida",
+  "updated_at": "2026-06-16T19:55:48.093Z",
+  "updated_by": "tintaliquida"
+}
