@@ -57,14 +57,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
       "includes": [
         "media",
@@ -245,6 +237,6 @@
   "slug": "lived-waters",
   "created_at": "2026-05-24T01:21:36.311Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-16T19:48:53.098Z",
+  "updated_at": "2026-06-16T21:20:05.692Z",
   "updated_by": "tintaliquida"
 }
