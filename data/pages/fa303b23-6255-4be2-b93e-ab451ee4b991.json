@@ -86,14 +86,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "However, this is not the first time the Canal watershed has been redefined. When the administration of the waterway was transfered from US to Panamanian control in 1999, Law 44 was passed, formalizing a restructured watershed, extending its limits to incorporate rural territories into the Canal’s hydrological system. "
         }
       ]
@@ -292,6 +284,6 @@
   "slug": "watershed-expansion-of-the-panama-canal",
   "created_at": "2026-05-24T01:19:31.803Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-16T20:38:03.946Z",
+  "updated_at": "2026-06-16T21:14:09.913Z",
   "updated_by": "tintaliquida"
 }
