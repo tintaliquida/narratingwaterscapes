@@ -15,15 +15,21 @@
   "project": {
     "github_org": "tintaliquida",
     "is_private": false,
-    "title": "Narrating Waters: Testimony and Infrastructure in the Panama Canal",
-    "description": "This project analyzes 'Familia' (2007), Canal-related audiovisual materials and interviews with Río Indio community leader Digna Benite (2022-2026) to examine how documentary and testimonios contest infrastructural projects of water development in the Panama Canal watershed over time.\n\nFocusing on a proposed reservoir project in the Río Indio watershed —first announcement in 1999 and repeatedly revived— the project traces how infrastructural proposals persist across decades while testimonial voices remain continuous, reappearing in both archival and contemporary forms. \n\nThrough audiovisual annotation, it shows how 'Familia' frames competing narratives of water development, how technocratic discourse justifies infrastructural intervention, and how campesino testimony grounds these abstractions in lived territorial experience.",
+    "title": "Narrating Waters: Documentary, Testimony and the Recurring Future of the Panama Canal",
+    "description": "This project traces how testimony persists across the temporalities of infrastructure, following one voice of resistance (Digna Benite) through two decades of debate over water development in the Panama Canal watershed.",
     "language": "en",
     "slug": "narratingwaterscapes",
     "creator": "tintaliquida",
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "raymondhyser",
+        "avatar_url": "https://avatars.githubusercontent.com/u/70617821?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -111,7 +117,7 @@
       ]
     },
     "created_at": "2026-04-21T17:40:51.146Z",
-    "updated_at": "2026-06-18T19:09:16.456Z",
+    "updated_at": "2026-06-18T20:36:37.816Z",
     "generate_pages_site": true
   },
   "annotations": {},
