@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "In 2024, the Panama Canal Authority (ACP) announced an adjustment to the Canal watershed boundaries, expanding the spatial framework through which water is managed, monitored and allocated. This redefinition actively reorganized territory by incorporating new rural basins (and its populations) into Canal's operational domain."
+          "text": "In 2024, the Panama Canal Authority (ACP) announced an adjustment to the Canal watershed boundaries, expanding the spatial framework through which water is managed, monitored and allocated. This redefinition actively reorganized territory by incorporating new rural basins and populations into Canal's operational domain."
         }
       ]
     },
@@ -36,7 +36,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The expansion of watershed limits reproduces territorial effects in advance of material infrastructure. With new boundaries the Canal deploys new technical studies, environmental assessments, and planning processes that render projects such as the proposed Río Indio reservoir adminsitratively viable and strategically necessary. "
+          "text": "The expansion of watershed limits reproduces territorial effects in advance of material infrastructure. With new boundaries, the Canal deploys technical studies, environmental assessments, and planning processes that render projects such as the proposed Río Indio reservoir administratively viable and strategically necessary."
         }
       ]
     },
@@ -52,22 +52,55 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "However, this is not the first time the Canal watershed has been redefined. When the administration of the waterway was transferred from US to Panamanian control in 1999, Law 44 was passed, formalizing a restructured watershed, extending its limits to incorporate rural territories into the Canal’s hydrological system."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
     },
     {
-      "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "These shifts can be read through two audiovisual materials that stage different temporalities of the same infrastructure project:"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "annotations",
         "label",
         "description"
       ],
-      "start": 1344,
-      "end": 1353,
-      "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
-      "type": "event",
+      "event1": {
+        "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
+        "start": 1310,
+        "end": 1362,
+        "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
+        "type": "Video"
+      },
+      "event2": {
+        "uuid": "d81dd3a1-8ecc-43c7-a988-de3d86f6e41b",
+        "end": 235,
+        "file": "45e02fb1-1725-4c69-9c7b-3c0d32167036",
+        "type": "Video"
+      },
+      "type": "event-comparison",
       "children": [
         {
           "text": ""
@@ -86,7 +119,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "However, this is not the first time the Canal watershed has been redefined. When the administration of the waterway was transfered from US to Panamanian control in 1999, Law 44 was passed, formalizing a restructured watershed, extending its limits to incorporate rural territories into the Canal’s hydrological system. "
+          "text": "Read together, they foreground how watershed expansion operates both as a technical, bureaucratic process and as a way of narrating infrastructure, either as a disruptive intervention impacting local communities or as a long-term continuity of planning. "
         }
       ]
     },
@@ -102,7 +135,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "National debates about the Panama Canal expansion shed light on how this expansion will require the construction of new infrastructure: new dams and reservoirs in rural areas. Campesino protest movement emerged in response and, in 2006, president Martin Torrijos revoked Law 44."
+          "text": "National debates about the Panama Canal expansion shed light on how this expansion implies the construction of new infrastructure: new dams and reservoirs in rural watersheds. In response to the implications of Law 44, campesino mobilizations emerged across the affected regions. In 2006, President Martin Torrijos revoked the law."
         }
       ]
     },
@@ -153,7 +186,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "1999-2006 — Campesino protests "
+          "text": "1999-2006 — Campesino mobilizations and protest against the reservoir projects "
         }
       ],
       "align": "left"
@@ -171,7 +204,14 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "2007 — Documentary Familia released"
+          "text": "2007 — Documentary "
+        },
+        {
+          "text": "Familia",
+          "italic": true
+        },
+        {
+          "text": " released"
         }
       ],
       "align": "left"
@@ -284,6 +324,6 @@
   "slug": "watershed-expansion-of-the-panama-canal",
   "created_at": "2026-05-24T01:19:31.803Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-16T21:14:09.913Z",
+  "updated_at": "2026-06-18T20:40:02.571Z",
   "updated_by": "tintaliquida"
 }
