@@ -1,35 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 7,
-      "end_time": 235,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Across eight chapters spanning the 1930s to the present, the reservoir appears as the gradual outcome of hydrological planning. The comparison shows how the same infrastructure can be narrated either as a disruptive territorial reorganization or as administrative continuity."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "state mapping",
-          "category": "epistemologies of space"
-        },
-        {
-          "tag": "dam",
-          "category": "infrastructure and state violence"
-        },
-        {
-          "tag": "reservoir",
-          "category": "infrastructure and state violence"
-        }
-      ],
-      "uuid": "b4515633-d979-40aa-8b6d-03ebad6b94bc"
-    },
-    {
       "start_time": 0,
       "end_time": 6,
       "annotation": [
