@@ -4,7 +4,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The expansion of the Canal’s watershed is not only a technical adjustment of water management. It reorganizes the land and the communities that inhabit it. In this process, rural territories are reclassified according to their potential contribution to the Canal's water supply."
+          "text": "The expansion of the Canal’s watershed is not only a technical form of water management. It reorganizes the land and the communities that inhabit it. In this process, rural territories are reclassified according to their potential contribution to the Canal's water supply."
         }
       ]
     },
@@ -20,7 +20,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Within these redefined basins, infrastructure ceases to appear only as physical construction and operates instead as a mode of territorial reading: rivers, hills, and settlements become legible as storage capacity, catchment zones, or sites of future intervention. "
+          "text": "Within these redefined basins, infrastructure ceases to appear only as physical construction and operates instead as a mode of territorial reading: rivers, hills, and settlements become legible as storage capacity, catchment zones, or sites of future intervention."
         }
       ]
     },
@@ -49,14 +49,6 @@
       ]
     },
     {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
       "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
       "includes": [
         "media",
@@ -64,8 +56,8 @@
         "label",
         "description"
       ],
-      "start": 443,
-      "end": 1343,
+      "start": 1363,
+      "end": 1427,
       "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
       "type": "event",
       "children": [
@@ -86,7 +78,23 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "This cycle of anticipation is clearly rendered in the Río Indio project. It was originally anounced over two decades ago but it was legally revoked following sustained campesino mobilizations. Yet in the wake of climate-change induced droughts, that have crippled Canal transits, the state has resurrected and formally advanced the damming of Río Indio as of 2026."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This cycle of anticipation is central to the Río Indio project. It was originally announced over two decades ago but it was legally revoked following sustained campesino mobilizations. Yet in the wake of climate-change induced droughts, that have crippled Canal transits, the state has resurrected and formally advanced the damming of Río Indio as of 2026."
         }
       ]
     },
@@ -106,11 +114,10 @@
         },
         {
           "text": "Familia",
-          "bold": true,
           "italic": true
         },
         {
-          "text": " (2007) and reappear in public manifestations in 2026. Her testimony sheds light on a vital perspective from the margins, refusing to describe infrastructure as an abstract idea serving world commerce. Instead, her narrative allows the audience to comprehend the ongoing reorganization of territory from within. The future of water governance has been restructuring everyday life for decades: first, as a looming threat on the eve of the Panama Canal expansion, and now as an urgent, revived reality in 2026."
+          "text": " (2007) and reappear in contemporary interviews and mobilizations. Her testimony makes visible a form of territorial knowledge grounded in anticipation rather than resolution. Rather than describing infrastructure as an abstract idea and a finished object, her account registers it as an ongoing reorganization of territory and everyday life across time."
         }
       ]
     },
@@ -126,38 +133,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "ab269121-4eb8-400e-8640-8503742cd2ce",
-      "includes": [
-        "media",
-        "annotations",
-        "label",
-        "description"
-      ],
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
+          "text": "In this sense, water governance in the Panama Canal watershed does not unfold as a linear process, but as a recursive condition in which development is repeatedly proposed, suspended and reactivated."
         }
       ]
     },
@@ -237,6 +213,6 @@
   "slug": "lived-waters",
   "created_at": "2026-05-24T01:21:36.311Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-16T21:20:05.692Z",
+  "updated_at": "2026-06-18T20:41:33.452Z",
   "updated_by": "tintaliquida"
 }
