@@ -24,11 +24,10 @@
         },
         {
           "text": "Familia",
-          "italic": true,
-          "bold": true
+          "italic": true
         },
         {
-          "text": " (2007), directed by Enrique Castro Ríos, as a site where development is contested. The film stages a debate within an elite Panamanian family over the expansion of the Canal, structured around a journey through river, coast, and the canal. Within this narrative, campesino figures —including Digna, a Río Indio community leader— appear as part of the film's internal conflict, grounding abstract discussions of development with lived territorial experiences."
+          "text": " (2007), directed by Enrique Castro Ríos, as a site where development is re-narrated across social positions. The film stages a debate within an elite Panamanian family over the expansion of the Canal, structured around a journey through the river, coast, and the canal. Within this narrative, campesino figures —including Digna, a Río Indio community leader— appear as part of the film's internal conflict, grounding abstract discussions of development with lived territorial experiences."
         }
       ]
     },
@@ -44,7 +43,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "The project reads this documentary alongside audiovisual material of the Panama Canal's water strategy, Panamanian scholars analyzing this project, and recorded interviews with Digna, conducted over two decades after her initial opposition to the reservoir project in 1999. The same infrastructure proposal reappears across time, while the same voice of resistance persists."
+          "text": "The project reads this documentary alongside audiovisual material of the Panama Canal's water strategy, a Panamanian historian analyzing this project, and recorded interviews with Digna, conducted between 2022 and 2025, more than two decades after her initial opposition to the reservoir project in 1999. The same infrastructure proposal reappears across time, while the same voice of resistance persists. Across these  recordings, Digna reflects on the persistence of campesino mobilization through shifting phases of uncertainty."
         }
       ]
     },
@@ -60,12 +59,11 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "I approach testimony as a form of territorial knowledge that contests infrastructural abstraction. Through audiovisual annotation, this project examines how "
+          "text": "I approach testimony as a form of territorial knowledge that persists within infrastructural abstraction. Through audiovisual annotation, this project examines how "
         },
         {
           "text": "Familia",
-          "italic": true,
-          "bold": true
+          "italic": true
         },
         {
           "text": " (2007) stages ongoing national debates about water development, and how campesino testimony anchors these abstractions in lived territory."
@@ -197,6 +195,6 @@
   "slug": "introduction-testimony-across-infrastructura",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-18T20:54:48.986Z",
+  "updated_at": "2026-06-18T21:01:25.991Z",
   "updated_by": "tintaliquida"
 }
