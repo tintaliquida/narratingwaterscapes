@@ -98,16 +98,12 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": ")"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "state-mapping"
         }
       ]
     },
     "created_at": "2026-04-21T17:40:51.146Z",
-    "updated_at": "2026-06-22T17:47:35.460Z",
+    "updated_at": "2026-06-22T17:47:39.519Z",
     "generate_pages_site": true
   },
   "annotations": {},
