@@ -73,16 +73,22 @@
       ]
     },
     {
-      "uuid": "ab269121-4eb8-400e-8640-8503742cd2ce",
+      "uuid": "6ae9bfc1-0584-4d38-a599-2fb65febf726",
       "includes": [
         "media",
         "annotations",
         "label",
         "description"
       ],
-      "end": 28,
-      "file": "61bebd82-9f12-42a9-9ed8-35dc2f895bea",
       "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -143,14 +149,6 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
           "text": "This cycle of anticipation is central to the Río Indio project. It was originally announced over two decades ago but it was legally revoked following sustained campesino mobilizations. Yet in the wake of climate-change induced droughts, that have crippled Canal transits, the state has resurrected and formally advanced the damming of Río Indio as of 2026."
         }
       ]
@@ -180,6 +178,14 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "includes": [
         "media",
         "annotations",
@@ -194,13 +200,28 @@
         "type": "Video"
       },
       "event2": {
-        "uuid": "ab269121-4eb8-400e-8640-8503742cd2ce",
-        "start": 0,
+        "uuid": "6b38d49a-ace2-4c5c-9819-783ac2c7e831",
         "end": 24,
-        "file": "61bebd82-9f12-42a9-9ed8-35dc2f895bea",
+        "file": "edc12960-a714-41f2-94d3-cd2d428ff33b",
         "type": "Audio"
       },
       "type": "event-comparison",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -321,6 +342,6 @@
   "slug": "lived-waters",
   "created_at": "2026-05-24T01:21:36.311Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-18T21:24:27.957Z",
+  "updated_at": "2026-07-01T20:39:24.987Z",
   "updated_by": "tintaliquida"
 }
