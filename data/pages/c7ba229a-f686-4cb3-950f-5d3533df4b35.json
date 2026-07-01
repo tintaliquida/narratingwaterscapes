@@ -4,11 +4,12 @@
   "created_by": "tintaliquida",
   "title": "43rd Annual Patterson Lecture: Ricaurte Vásquez Morales, Panama Canal Administrator",
   "slug": "43rd-annual-patterson-lecture-ricaurte-vasqu",
-  "updated_at": "2026-05-26T04:17:34.139Z",
+  "updated_at": "2026-07-01T18:21:57.679Z",
   "updated_by": "tintaliquida",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "40f382fc-46d1-4333-9e3d-5a4c50e016b0"
-  }
+  },
+  "parent": "dfd7d35f-138d-400c-8a9f-7da1b00618f8"
 }
