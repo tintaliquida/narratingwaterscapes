@@ -1,0 +1,33 @@
+{
+  "audiovisual_files": {
+    "edc12960-a714-41f2-94d3-cd2d428ff33b": {
+      "label": "",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://ia800504.us.archive.org/32/items/digna-benite-sobre-la-historia-de-la-ccce/Digna%20Benite%20sobre%20la%20historia%20de%20la%20CCCE.wav",
+      "duration": 0,
+      "caption_set": [],
+      "set_sort": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Testimony of community leader Digna Benite, regarding the history of the organization Coordinadora Campesina por la Vida Contra los Embalses (CCCE)."
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "label": "Digna Benite Testimony",
+  "av_file_order": [
+    "edc12960-a714-41f2-94d3-cd2d428ff33b"
+  ],
+  "created_at": "2026-07-01T18:27:57.878Z",
+  "created_by": "tintaliquida",
+  "updated_at": "2026-07-01T18:27:57.878Z",
+  "updated_by": "tintaliquida"
+}
