@@ -4,11 +4,12 @@
   "created_by": "tintaliquida",
   "title": "Digna Benite Testimony II",
   "slug": "digna-benite-testimony-ii",
-  "updated_at": "2026-07-01T18:29:55.091Z",
+  "updated_at": "2026-07-01T18:34:00.294Z",
   "updated_by": "tintaliquida",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "6ae9bfc1-0584-4d38-a599-2fb65febf726"
-  }
+  },
+  "parent": "dfd7d35f-138d-400c-8a9f-7da1b00618f8"
 }
