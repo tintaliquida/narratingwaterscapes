@@ -278,6 +278,40 @@
       "type": "paragraph",
       "children": [
         {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://archive.org/download/digna-durante-la-protesta-en-rio-indio/Digna-durante-la-protesta-en-Rio-Indio.jpg",
+      "caption": "Digna Benite during campesino mobilizations in 2025.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": "Recommended readings:",
           "italic": true
         }
@@ -342,6 +376,6 @@
   "slug": "lived-waters",
   "created_at": "2026-05-24T01:21:36.311Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-07-01T20:39:24.987Z",
+  "updated_at": "2026-07-01T20:42:49.032Z",
   "updated_by": "tintaliquida"
 }
