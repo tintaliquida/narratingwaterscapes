@@ -85,106 +85,6 @@
           "text": "Ultimately, the project argues that water governance in the Panama Canal watershed is not a linear technical process but a recursive struggle over how development is narrated, authorized and lived across time."
         }
       ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "grid",
-      "layout": [
-        6
-      ],
-      "children": [
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
-              "includes": [
-                "media",
-                "annotations",
-                "label",
-                "description"
-              ],
-              "start": 5,
-              "end": 20,
-              "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
-              "type": "event",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            },
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "uuid": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea",
-      "includes": [],
-      "start": 2820,
-      "end": 4920,
-      "file": "8a77badf-7a01-466f-ad7e-443f308a3dbf",
-      "type": "event",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
     }
   ],
   "title": "Introduction: Testimony Across Infrastructural Time",
@@ -195,6 +95,6 @@
   "slug": "introduction-testimony-across-infrastructura",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-06-18T21:15:35.466Z",
+  "updated_at": "2026-07-01T20:47:12.919Z",
   "updated_by": "tintaliquida"
 }
