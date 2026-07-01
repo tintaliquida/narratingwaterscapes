@@ -4,11 +4,12 @@
   "created_by": "tintaliquida",
   "title": "Familia (2007)",
   "slug": "familia-2007",
-  "updated_at": "2026-05-26T01:34:04.365Z",
+  "updated_at": "2026-07-01T18:21:19.984Z",
   "updated_by": "tintaliquida",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "66c8f866-efaf-45bd-9d0f-d3f3fe898fea"
-  }
+  },
+  "parent": "dfd7d35f-138d-400c-8a9f-7da1b00618f8"
 }
