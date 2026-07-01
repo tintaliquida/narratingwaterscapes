@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"We struggled from 1999 until 2006, when the law was repealed. We carried out all those vigils and marches. When the law was repealed, everyone felt reassured. But we thought it could be a lie, that it could be like boiling water with the lid onâhidden, where nobody could see it. That's why a few of us kept going.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "transcription"
+        },
+        {
+          "tag": "testimony",
+          "category": "political agency"
+        },
+        {
+          "tag": "grassroots",
+          "category": "political agency"
+        },
+        {
+          "tag": "Digna Benite",
+          "category": "local leader"
+        }
+      ],
+      "uuid": "cdd1b882-0135-4df2-bb40-5c82c971ce96"
+    }
+  ],
   "set": "Default",
   "event_id": "6ae9bfc1-0584-4d38-a599-2fb65febf726",
   "source_id": "c1523764-106d-41b3-b4a5-12c2fc276e69"
