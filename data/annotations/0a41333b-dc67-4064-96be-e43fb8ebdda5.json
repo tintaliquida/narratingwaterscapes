@@ -1,1 +1,65 @@
-{"annotations":[{"start_time":0,"end_time":6,"annotation":[{"type":"paragraph","children":[{"text":"Whereas Familia presents Rio Indio through the moment local communities encounter maps, measurements, and uncertainty, the ACP chronology narrates the same project as a decades-long sequence of technical studies."}]}],"tags":[{"tag":"state mapping","category":"epistemologies of space"},{"tag":"dam","category":"infrastructure and state violence"},{"tag":"reservoir","category":"infrastructure and state violence"}],"uuid":"d70b5ee5-2c05-4e59-87b7-3808d761e45f"},{"start_time":7,"end_time":235,"annotation":[{"type":"paragraph","children":[{"text":"Across eight chapters spanning the 1930s to the present, the reservoir appears as the gradual outcome of hydrological planning. The comparison shows how the same infrastructure can be narrated either as a disruptive territorial reorganization or as administrative continuity."}]}],"tags":[{"tag":"state mapping","category":"epistemologies of space"},{"tag":"dam","category":"infrastructure and state violence"},{"tag":"reservoir","category":"infrastructure and state violence"}],"uuid":"003c2e71-1d2e-4e10-b870-34573989441e"}],"set":"Default","event_id":"d81dd3a1-8ecc-43c7-a988-de3d86f6e41b","source_id":"45e02fb1-1725-4c69-9c7b-3c0d32167036"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Whereas the documentary 'Familia' presents Rio Indio through the moment local communities encounter maps, measurements, and uncertainty, the ACP chronology narrates the same project as a decades-long sequence of technical studies."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        }
+      ],
+      "uuid": "d70b5ee5-2c05-4e59-87b7-3808d761e45f"
+    },
+    {
+      "start_time": 7,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Across eight chapters spanning the 1930s to the present, the reservoir appears as the gradual outcome of hydrological planning. The comparison shows how the same infrastructure can be narrated either as a disruptive territorial reorganization or as administrative continuity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        }
+      ],
+      "uuid": "003c2e71-1d2e-4e10-b870-34573989441e"
+    }
+  ],
+  "set": "Default",
+  "event_id": "d81dd3a1-8ecc-43c7-a988-de3d86f6e41b",
+  "source_id": "45e02fb1-1725-4c69-9c7b-3c0d32167036"
+}
