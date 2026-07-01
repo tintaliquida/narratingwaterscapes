@@ -5,9 +5,10 @@
       "is_offline": false,
       "file_type": "Audio",
       "file_url": "https://ia800504.us.archive.org/32/items/digna-benite-sobre-la-historia-de-la-ccce/Digna%20Benite%20sobre%20la%20historia%20de%20la%20CCCE.wav",
-      "duration": 0,
+      "duration": 24,
       "caption_set": [],
-      "set_sort": []
+      "set_sort": [],
+      "duration_overridden": true
     }
   },
   "auto_generate_web_page": true,
@@ -28,6 +29,6 @@
   ],
   "created_at": "2026-07-01T18:27:57.878Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-07-01T18:27:57.878Z",
+  "updated_at": "2026-07-01T18:30:24.688Z",
   "updated_by": "tintaliquida"
 }
