@@ -85,6 +85,49 @@
           "text": "Ultimately, the project argues that water governance in the Panama Canal watershed is not a linear technical process but a recursive struggle over how development is narrated, authorized and lived across time."
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://ia600402.us.archive.org/5/items/familia-2007-captura/Familia%202007%20captura.png",
+      "caption": "A still from the documentary Familia (2007), depicting campesino mobilizations and planning by the Panama Canal Authority.",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "scale": 50
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "Introduction: Testimony Across Infrastructural Time",
@@ -95,6 +138,6 @@
   "slug": "introduction-testimony-across-infrastructura",
   "created_at": "2026-05-24T00:53:55.368Z",
   "created_by": "tintaliquida",
-  "updated_at": "2026-07-01T20:47:12.919Z",
+  "updated_at": "2026-07-01T20:58:16.961Z",
   "updated_by": "tintaliquida"
 }
