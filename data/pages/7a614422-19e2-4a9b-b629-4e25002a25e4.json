@@ -4,11 +4,12 @@
   "created_by": "tintaliquida",
   "title": "History of the Río Indio Project",
   "slug": "history-of-the-rio-indio-project",
-  "updated_at": "2026-05-26T07:47:54.477Z",
+  "updated_at": "2026-07-01T18:22:09.787Z",
   "updated_by": "tintaliquida",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "d81dd3a1-8ecc-43c7-a988-de3d86f6e41b"
-  }
+  },
+  "parent": "dfd7d35f-138d-400c-8a9f-7da1b00618f8"
 }
