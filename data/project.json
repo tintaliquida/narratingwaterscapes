@@ -1,1 +1,133 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":"","publish_static_site":false},"users":[{"login_name":"tintaliquida","avatar_url":"https://avatars.githubusercontent.com/u/183548183?v=4","admin":true}],"project":{"github_org":"tintaliquida","is_private":false,"title":"Narrating Waters: Documentary, Testimony and the Recurring Future of the Panama Canal","description":"This project traces how testimony persists across the temporalities of infrastructure, following one voice of resistance (Digna Benite) through two decades of debate over water development in the Panama Canal watershed.","language":"en","slug":"narratingwaterscapes","creator":"tintaliquida","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"category":"Tag Group","color":"#ADFFD9"},{"category":"political agency","color":"#ADFEFF"},{"category":"infrastructure and state violence","color":"#99E6FF"},{"category":"epistemologies of space","color":"#88C9F2"},{"category":"local leader","color":"#99AFF2"},{"category":"_uncategorized_","color":"#A3A3A3"}],"tags":[{"tag":"Tags","category":"Tag Group"},{"tag":"grassroots","category":"political agency"},{"tag":"dam","category":"infrastructure and state violence"},{"tag":"state mapping","category":"epistemologies of space"},{"tag":"environmental legislation","category":"infrastructure and state violence"},{"tag":"exclusion","category":"infrastructure and state violence"},{"tag":"lived territory","category":"epistemologies of space"},{"tag":"counter mapping","category":"epistemologies of space"},{"tag":"testimony","category":"political agency"},{"tag":"reservoir","category":"infrastructure and state violence"},{"tag":"Digna Benite","category":"local leader"},{"category":"_uncategorized_","tag":"state-mapping"},{"category":"_uncategorized_","tag":"transcription"}]},"created_at":"2026-04-21T17:40:51.146Z","updated_at":"2026-07-01T18:32:51.384Z","generate_pages_site":true},"annotations":{},"events":{},"eventOrder":[],"pages":{"8bfcd9ec-9992-4c62-a5de-c5b1e5b4066e":{"content":[],"created_at":"2026-04-21T17:40:51.163Z","created_by":"tintaliquida","title":"Narrating Waterscapes: Documentary, Memory, and Territory in Río Indio","updated_at":"2026-04-21T17:40:51.163Z","updated_by":"tintaliquida","autogenerate":{"enabled":true,"type":"home"}}},"pageOrder":["8bfcd9ec-9992-4c62-a5de-c5b1e5b4066e"]}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": "",
+    "publish_static_site": false
+  },
+  "users": [
+    {
+      "login_name": "tintaliquida",
+      "avatar_url": "https://avatars.githubusercontent.com/u/183548183?v=4",
+      "admin": true
+    }
+  ],
+  "project": {
+    "github_org": "tintaliquida",
+    "is_private": false,
+    "title": "Narrating Waters: Documentary, Testimony and the Recurring Future of the Panama Canal",
+    "description": "This project traces how testimony persists across the temporalities of infrastructure, following one voice of resistance (Digna Benite) through two decades of debate over water development in the Panama Canal watershed.",
+    "language": "en",
+    "slug": "narratingwaterscapes",
+    "creator": "tintaliquida",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "category": "Tag Group",
+          "color": "#ADFFD9"
+        },
+        {
+          "category": "political agency",
+          "color": "#ADFEFF"
+        },
+        {
+          "category": "infrastructure and state violence",
+          "color": "#99E6FF"
+        },
+        {
+          "category": "epistemologies of space",
+          "color": "#88C9F2"
+        },
+        {
+          "category": "local leader",
+          "color": "#99AFF2"
+        },
+        {
+          "category": "_uncategorized_",
+          "color": "#A3A3A3"
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tags",
+          "category": "Tag Group"
+        },
+        {
+          "tag": "grassroots",
+          "category": "political agency"
+        },
+        {
+          "tag": "dam",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "state mapping",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "environmental legislation",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "exclusion",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "lived territory",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "counter mapping",
+          "category": "epistemologies of space"
+        },
+        {
+          "tag": "testimony",
+          "category": "political agency"
+        },
+        {
+          "tag": "reservoir",
+          "category": "infrastructure and state violence"
+        },
+        {
+          "tag": "Digna Benite",
+          "category": "local leader"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "state-mapping"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "transcription"
+        }
+      ]
+    },
+    "created_at": "2026-04-21T17:40:51.146Z",
+    "updated_at": "2026-07-01T18:32:52.887Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "8bfcd9ec-9992-4c62-a5de-c5b1e5b4066e": {
+      "content": [],
+      "created_at": "2026-04-21T17:40:51.163Z",
+      "created_by": "tintaliquida",
+      "title": "Narrating Waterscapes: Documentary, Memory, and Territory in Río Indio",
+      "updated_at": "2026-04-21T17:40:51.163Z",
+      "updated_by": "tintaliquida",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "8bfcd9ec-9992-4c62-a5de-c5b1e5b4066e"
+  ]
+}
